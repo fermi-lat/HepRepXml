@@ -1,5 +1,6 @@
-//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.1.1.1 2003/07/07 08:43:02 riccardo Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.2 2003/07/17 22:30:30 riccardo Exp $
 /*
  * v0r1     07-07-03 RG Inital release of the package
  * v0r2     17-07-03 RG Prepare for Latest
+ * v0r5     04-06-03 RG Updated for new HepRepSvc features
 */
