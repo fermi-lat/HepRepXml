@@ -1,4 +1,4 @@
-// $Header: /nfs/slac/g/glast/ground/cvs/HepRepSvc/src/HepRepSvc.cxx,v 1.3 2003/01/28 13:06:55 riccardo Exp $
+// $Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/src/XmlStreamer.cxx,v 1.1.1.1 2003/07/07 08:43:02 riccardo Exp $
 // 
 //  Original author: R.Giannitrapani
 //
@@ -64,8 +64,8 @@ void XmlStreamer::saveHepRep(std::string nameFile)
       IRegistry::fillerCol temp = m_registry->getFillersByType(it->second);
       gzprintf(file,
               "<instancetree name=\"%s\" version=\"1.0\" reqtypetree=\"\" ",  
-              it->second.c_str()); 
-      gzprintf(file,"typeName=\"%s\" typeVersion=\"1.0\">\n" ,it->first.c_str());
+              it->first.c_str()); 
+      gzprintf(file,"typetreename=\"%s\" typetreeversion=\"1.0\">\n" ,it->second.c_str());
 
       for(jt=temp.begin();jt!=temp.end();jt++)
         {
