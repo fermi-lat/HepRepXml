@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Wed Sep 22 09:46:19 PDT 2004
+HepRepXml/cmt
+
+Modified Files:
+	requirements setup.bat 
+Log Message:
+Migration to new HepRep2 real support; instances are now saved with full name qualified.
+
+    *
+------------------------------------------------------------
 User: riccardo  Tue Jul 20 08:14:57 PDT 2004
 HepRepXml/doc
 
