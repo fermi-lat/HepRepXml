@@ -1,0 +1,31 @@
+------------------------------------------------------------
+User: riccardo  Mon Jul  7 01:43:02 PDT 2003
+HepRepXml
+
+Log Message:
+First import of the HepRepXml; this package implement an XML streamer for the HepRepSvc
+Gaudi service. It can be loaded runtime and it registers itself with the HepRepSvc. Need to 
+be tested.
+
+Status:
+
+Vendor Tag:	GLAST
+Release Tags:	v0r1
+		
+N HepRepXml/cmt/NMake
+N HepRepXml/cmt/requirements
+N HepRepXml/cmt/cleanup.bat
+N HepRepXml/cmt/setup.bat
+N HepRepXml/src/XmlBuilder.h
+N HepRepXml/src/XmlStreamer.h
+N HepRepXml/src/XmlBuilder.cxx
+N HepRepXml/src/XmlStreamer.cxx
+N HepRepXml/src/RegisterXml.cxx
+N HepRepXml/src/HepRepXml_load.cxx
+N HepRepXml/src/mainpage.h
+N HepRepXml/src/test/jobOptions.txt
+N HepRepXml/doc/release.notes
+
+No conflicts created by this import
+
+    *
