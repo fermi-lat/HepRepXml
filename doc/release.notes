@@ -1,7 +1,8 @@
-//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.3 2004/06/04 11:26:23 riccardo Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.4 2004/07/20 15:14:57 riccardo Exp $
 /*
  * v0r1     07-07-03 RG Inital release of the package
  * v0r2     17-07-03 RG Prepare for Latest
  * v0r5     04-06-04 RG Updated for new HepRepSvc features
  * v0r6     20-07-04 RG Updated for new External libs structure
+ * v0r7     29-09-04 RG Updated for new full name Types output
 */
