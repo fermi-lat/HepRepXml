@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Wed Apr  7 05:52:00 PDT 2004
+HepRepXml/cmt
+
+Modified Files:
+	cleanup.bat setup.bat 
+Log Message:
+Small fixex to the XML output of HepRep
+
+    *
+------------------------------------------------------------
 User: riccardo  Thu Jul 17 15:30:30 PDT 2003
 HepRepXml/doc
 
