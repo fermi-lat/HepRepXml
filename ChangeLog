@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: riccardo  Wed Jul 16 13:12:29 PDT 2003
+HepRepXml/src
+
+Modified Files:
+	XmlStreamer.cxx 
+Log Message:
+Fixed some incompatibilities with WIRED
+    *
+------------------------------------------------------------
 User: riccardo  Mon Jul  7 01:43:02 PDT 2003
 HepRepXml
 
