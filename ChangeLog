@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: riccardo  Wed Apr  7 05:52:00 PDT 2004
+HepRepXml/src
+
+Modified Files:
+	XmlStreamer.cxx 
+Log Message:
+Small fixex to the XML output of HepRep
+
+    *
+------------------------------------------------------------
+User: riccardo  Wed Apr  7 05:52:00 PDT 2004
 HepRepXml/cmt
 
 Modified Files:
