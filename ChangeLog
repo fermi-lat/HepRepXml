@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: riccardo  Thu Jul  8 06:01:46 PDT 2004
+HepRepXml/cmt
+
+Modified Files:
+	cleanup.bat requirements setup.bat 
+Log Message:
+Small changes to the requirements file for the new exteranl libraries in IExternal
+
+    *
+------------------------------------------------------------
 User: riccardo  Fri Jun  4 04:26:23 PDT 2004
 HepRepXml/doc
 
