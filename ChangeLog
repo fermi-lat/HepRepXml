@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: lsrea  Thu Mar 15 13:27:00 PDT 2007
+HepRepXml/cmt
+
+Modified Files:
+	cleanup.bat requirements setup.bat 
+Log Message:
+prepare for tag v0r7p1
+fix test program
+
+    *
+------------------------------------------------------------
 User: riccardo  Wed Sep 29 03:40:35 PDT 2004
 HepRepXml/doc
 
