@@ -1,4 +1,27 @@
 ------------------------------------------------------------
+TAG
+Tag name: v0r8, operation: add
+Package: HepRepXml
+User: heather  Mon Oct 29 20:39:11 2007
+Files:
+  HepRepXml/ChangeLog  1.20
+  HepRepXml/cmt/setup.bat  1.7
+  HepRepXml/cmt/NMake  1.1.1.1
+  HepRepXml/cmt/requirements  1.6
+  HepRepXml/cmt/cleanup.bat  1.4
+  HepRepXml/doc/release.notes  1.7
+  HepRepXml/src/mainpage.h  1.1.1.1
+  HepRepXml/src/XmlStreamer.cxx  1.3
+  HepRepXml/src/XmlStreamer.h  1.1.1.1
+  HepRepXml/src/RegisterXml.cxx  1.1.1.1
+  HepRepXml/src/HepRepXml_load.cxx  1.2
+  HepRepXml/src/HepRepXml_dll.cxx  1.1
+  HepRepXml/src/XmlBuilder.h  1.1.1.1
+  HepRepXml/src/XmlBuilder.cxx  1.2
+  HepRepXml/src/test/jobOptions.txt  1.2
+
+    *
+------------------------------------------------------------
 User: heather  Mon Oct 29 20:08:02 PDT 2007
 HepRepXml/doc
 
