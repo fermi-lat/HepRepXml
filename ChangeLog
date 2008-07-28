@@ -1,5 +1,28 @@
 ------------------------------------------------------------
 TAG
+Tag name: HepRepXml-00-08-01, operation: add
+Package: HepRepXml
+User: glastrm  Mon Jul 28 10:30:34 2008
+Files:
+  HepRepXml/ChangeLog  1.24
+  HepRepXml/cmt/setup.bat  1.7
+  HepRepXml/cmt/NMake  1.1.1.1
+  HepRepXml/cmt/requirements  1.7
+  HepRepXml/cmt/cleanup.bat  1.4
+  HepRepXml/doc/release.notes  1.8
+  HepRepXml/src/XmlStreamer.cxx  1.3
+  HepRepXml/src/XmlStreamer.h  1.1.1.1
+  HepRepXml/src/HepRepXml_load.cxx  1.2
+  HepRepXml/src/XmlBuilder.h  1.1.1.1
+  HepRepXml/src/XmlBuilder.cxx  1.2
+  HepRepXml/src/mainpage.h  1.1.1.1
+  HepRepXml/src/RegisterXml.cxx  1.1.1.1
+  HepRepXml/src/HepRepXml_dll.cxx  1.1
+  HepRepXml/src/test/jobOptions.txt  1.3
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: v0r8p1, operation: add
 Package: HepRepXml
 User: jrb  Mon Jul 28 10:18:39 2008
