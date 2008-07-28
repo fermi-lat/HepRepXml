@@ -1,4 +1,4 @@
-//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.6 2007/03/15 20:27:00 lsrea Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.7 2007/10/30 03:08:02 heather Exp $
 /*
  * v0r1     07-07-03 RG Inital release of the package
  * v0r2     17-07-03 RG Prepare for Latest
@@ -7,4 +7,5 @@
  * v0r7     29-09-04 RG Updated for new full name Types output
  * v0r7p1   15-03-07 LSR Fixed test program (same as for HepRepSvc!)
  * v0r8     30-10-07 HMK use gr_app
+ * v0r8p1   28-07-08 jrb Tag Navid's change to xml path ref. in job options
 */
