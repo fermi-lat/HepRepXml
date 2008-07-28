@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Mon Jul 28 10:17:27 PDT 2008
+HepRepXml/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Added new line - version v0r8p1
+    *
+------------------------------------------------------------
 User: glastrm  Mon Jul 21 08:17:31 PDT 2008
 GlastRelease-scons/HepRepXml/src/test
 
