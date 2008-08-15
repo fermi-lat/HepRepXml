@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Fri Aug 15 14:22:42 PDT 2008
+GlastRelease-scons/HepRepXml
+
+Added Files:
+	SConscript 
+Log Message:
+Added SConscript files for packages
+    *
+------------------------------------------------------------
 TAG
 Tag name: HepRepXml-00-08-01, operation: add
 Package: HepRepXml
