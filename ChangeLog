@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Tue Oct 21 11:55:55 PDT 2008
+HepRepXml/cmt
+
+Modified Files:
+	cleanup.bat requirements setup.bat 
+Log Message:
+get test job running again... the .bat files shouldn't be in cvs!
+
+    *
+------------------------------------------------------------
 User: heather  Fri Sep 26 06:41:32 PDT 2008
 HepRepXml/cmt
 
