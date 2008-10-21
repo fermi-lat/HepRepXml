@@ -1,7 +1,7 @@
 # -*- python -*-
-# $Header$
+# $Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/SConscript,v 1.1 2008/08/15 21:22:42 ecephas Exp $
 # Authors: Riccardo Giannitrapani <riccardo@fisica.uniud.it>
-# Version: HepRepXml-00-08-01
+# Version: HepRepXml-00-08-02
 Import('baseEnv')
 Import('listFiles')
 Import('packages')
