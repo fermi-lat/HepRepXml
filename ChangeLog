@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+TAG
+Tag name: v0r8p2, operation: mov
+Package: HepRepXml
+User: glastrm  Tue Oct 21 12:30:42 2008
+Files:
+  HepRepXml/SConscript  1.2
+
+    *
+------------------------------------------------------------
 User: glastrm  Tue Oct 21 12:30:36 PDT 2008
 HepRepXml
 
