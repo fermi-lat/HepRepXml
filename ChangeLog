@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: lsrea  Tue Oct 21 11:55:55 PDT 2008
+HepRepXml/src/test
+
+Modified Files:
+	jobOptions.txt 
+Log Message:
+get test job running again... the .bat files shouldn't be in cvs!
+
+    *
+------------------------------------------------------------
+User: lsrea  Tue Oct 21 11:55:55 PDT 2008
 HepRepXml/doc
 
 Modified Files:
