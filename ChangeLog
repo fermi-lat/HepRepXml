@@ -1,4 +1,16 @@
 ------------------------------------------------------------
+User: ecephas  Mon Nov 10 07:42:44 PST 2008
+GlastRelease-scons/HepRepXml
+
+Modified Files:
+	HepRepXmlLib.py 
+Log Message:
+Added
+     env.Tool('addLibrary', library = env['zlibLibs'])
+     env.Tool('HepRepSvcLib')
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Nov 10 07:38:03 PST 2008
 GlastRelease-scons/HepRepXml
 
