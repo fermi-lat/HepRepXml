@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: ecephas  Mon Nov 10 07:38:03 PST 2008
+GlastRelease-scons/HepRepXml
+
+Modified Files:
+	SConscript 
+Log Message:
+Changed
+	test_HepRepXml = progEnv.GaudiProgram('test_HepRepXml', ['src/test/*.cxx'], test = 1)
+to
+	test_HepRepXml = progEnv.GaudiProgram('test_HepRepXml', listFiles(['src/test/*.cxx']), test = 1)
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: HepRepXml-00-08-02, operation: add
 Package: HepRepXml
