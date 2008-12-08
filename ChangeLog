@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 13:40:00 PST 2008
+GlastRelease-scons/HepRepXml
+
+Modified Files:
+	SConscript 
+Log Message:
+Check in SConscript for HepRepXml v0r8p1 (for branch-tag, GlastReleasev15r49) 
+    *
+------------------------------------------------------------
 User: ecephas  Mon Nov 10 07:42:44 PST 2008
 GlastRelease-scons/HepRepXml
 
