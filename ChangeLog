@@ -2,6 +2,16 @@
 TAG
 Tag name: HepRepXml-00-08-01, operation: add
 Package: HepRepXml
+User: ecephas  Mon Dec  8 16:08:35 2008
+Files:
+  HepRepXml/HepRepXmlLib.py  1.2
+  HepRepXml/HepRepXmlLib.py  1.2
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: HepRepXml-00-08-01, operation: add
+Package: HepRepXml
 User: ecephas  Mon Dec  8 13:40:06 2008
 Files:
   HepRepXml/SConscript  1.4
