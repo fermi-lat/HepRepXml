@@ -1,8 +1,9 @@
-//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.10 2008/10/21 18:56:32 lsrea Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.11 2009/07/01 16:13:22 heather Exp $
 /** @file release.notes
  Package HepRepXml
  * EOH *
 
+ HepRepXml-00-08-03 09-Sep-2009  lsrea fix unix warnings
  * v0r1     07-07-03 RG Inital release of the package
  * v0r2     17-07-03 RG Prepare for Latest
  * v0r5     04-06-04 RG Updated for new HepRepSvc features
