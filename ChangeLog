@@ -1,4 +1,29 @@
 ------------------------------------------------------------
+TAG
+Tag name: HepRepXml-00-08-04, operation: add
+Package: HepRepXml
+User: lsrea  Thu Sep 10 14:30:10 2009
+Files:
+  HepRepXml/ChangeLog  1.57
+  HepRepXml/HepRepXmlLib.py  1.2
+  HepRepXml/SConscript  1.7
+  HepRepXml/cmt/setup.bat  1.8
+  HepRepXml/cmt/NMake  1.1.1.1
+  HepRepXml/cmt/requirements  1.10
+  HepRepXml/cmt/cleanup.bat  1.5
+  HepRepXml/doc/release.notes  1.13
+  HepRepXml/src/mainpage.h  1.1.1.1
+  HepRepXml/src/XmlStreamer.cxx  1.3
+  HepRepXml/src/XmlStreamer.h  1.1.1.1
+  HepRepXml/src/RegisterXml.cxx  1.1.1.1
+  HepRepXml/src/HepRepXml_load.cxx  1.2
+  HepRepXml/src/HepRepXml_dll.cxx  1.1
+  HepRepXml/src/XmlBuilder.h  1.3
+  HepRepXml/src/XmlBuilder.cxx  1.3
+  HepRepXml/src/test/jobOptions.txt  1.4
+
+    *
+------------------------------------------------------------
 User: lsrea  Thu Sep 10 14:30:04 PDT 2009
 HepRepXml/doc
 
