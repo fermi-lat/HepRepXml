@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Thu Sep 10 14:28:46 PDT 2009
+HepRepXml/src
+
+Modified Files:
+	XmlBuilder.h 
+Log Message:
+Back out some "fixes"
+
+    *
+------------------------------------------------------------
 User: lsrea  Thu Sep 10 14:28:22 PDT 2009
 HepRepXml/cmt
 
