@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+User: lsrea  Thu Sep 10 14:28:22 PDT 2009
+HepRepXml/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Back out some "fixes"
+
+    *
+------------------------------------------------------------
 TAG
 Tag name: HepRepXml-00-08-03, operation: add
 Package: HepRepXml
