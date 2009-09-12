@@ -1,8 +1,9 @@
-//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.12 2009/09/09 22:23:25 lsrea Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.13 2009/09/10 21:30:04 lsrea Exp $
 /** @file release.notes
  Package HepRepXml
  * EOH *
 
+ HepRepXml-00-08-05 12-Sep-2009  lsrea more fixes
  HepRepXml-00-08-04 10-Sep-2009  lsrea back out some fixes
  HepRepXml-00-08-03 09-Sep-2009  lsrea fix unix warnings
  * v0r1     07-07-03 RG Inital release of the package
