@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/SConscript,v 1.7 2009/09/10 21:30:04 lsrea Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/HepRepXml/SConscript,v 1.8 2009/09/12 16:21:56 lsrea Exp $
 # Authors: Riccardo Giannitrapani <riccardo@fisica.uniud.it>
 # Version: HepRepXml-00-08-05
 Import('baseEnv')
@@ -13,9 +13,12 @@ HepRepXml = libEnv.SharedLibrary('HepRepXml', listFiles(['src/*.cxx']))
 
 
 progEnv.Tool('HepRepXmlLib')
-test_HepRepXml = progEnv.GaudiProgram('test_HepRepXml', listFiles(['src/test/*.cxx']), test = 1)
+test_HepRepXml = progEnv.GaudiProgram('test_HepRepXml',
+                                      listFiles(['src/test/*.cxx']), test = 1)
 
-progEnv.Tool('registerObjects', package = 'HepRepXml', libraries = [HepRepXml], testApps = [test_HepRepXml])
+progEnv.Tool('registerTargets', package = 'HepRepXml',
+             libraryCxts = [[HepRepXml, libEnv]],
+             testAppCxts = [[test_HepRepXml, progEnv]])
 
 
 
