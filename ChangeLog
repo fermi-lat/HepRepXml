@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:37:53 PDT 2010
+GlastRelease-scons/HepRepXml
+
+Modified Files:
+	SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: HepRepXml-00-08-06, operation: add
 Package: HepRepXml
