@@ -1,5 +1,18 @@
 ------------------------------------------------------------
 User: heather  Fri Sep 17 20:47:50 PDT 2010
+HepRepXml/src
+
+Modified Files:
+      Tag: GlastReleasev18r6p1
+	RegisterXml.cxx 
+Removed Files:
+      Tag: GlastReleasev18r6p1
+	HepRepXml_dll.cxx HepRepXml_load.cxx 
+Log Message:
+Gaudi v21r7 updates
+    *
+------------------------------------------------------------
+User: heather  Fri Sep 17 20:47:50 PDT 2010
 HepRepXml/cmt
 
 Modified Files:
