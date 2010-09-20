@@ -1,7 +1,7 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/HepRepXml/SConscript,v 1.9 2009/11/12 02:01:02 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/SConscript,v 1.10 2009/11/13 01:39:35 jrb Exp $
 # Authors: Riccardo Giannitrapani <riccardo@fisica.uniud.it>
-# Version: HepRepXml-00-08-06
+# Version: HepRepXml-00-08-06-gr01
 Import('baseEnv')
 Import('listFiles')
 Import('packages')
