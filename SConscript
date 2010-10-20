@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/SConscript,v 1.11 2010/06/11 00:37:53 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/HepRepXml/SConscript,v 1.12 2010/06/12 17:28:48 jrb Exp $
 # Authors: Riccardo Giannitrapani <riccardo@fisica.uniud.it>
 # Version: HepRepXml-00-08-07
 Import('baseEnv')
@@ -9,7 +9,9 @@ progEnv = baseEnv.Clone()
 libEnv = baseEnv.Clone()
 
 libEnv.Tool('addLinkDeps', package='HepRepXml', toBuild='component')
-HepRepXml = libEnv.SharedLibrary('HepRepXml', listFiles(['src/*.cxx']))
+HepRepXml=libEnv.ComponentLibrary('HepRepXml',
+                                  ['src/RegisterXml.cxx','src/XmlBuilder.cxx',
+                                   'src/XmlStreamer.cxx'])
 
 
 progEnv.Tool('HepRepXmlLib')
