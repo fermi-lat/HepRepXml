@@ -15,7 +15,7 @@
 *  @brief Registe
 *  
 *   @author Riccardo Giannitrapani
-*   $Header: /nfs/slac/g/glast/ground/cvs/userAlg/src/RegisterSource.cxx,v 1.3 2003/03/15 22:12:28 burnett Exp $
+*   $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/HepRepXml/src/RegisterXml.cxx,v 1.1.1.1.648.1 2010/09/18 03:47:50 heather Exp $
 */
 class RegisterXml : public AlgTool, virtual public IRegister{
 public:
@@ -30,8 +30,9 @@ public:
 
 
 // Static factory for instantiation of algtool objects
-static ToolFactory<RegisterXml> s_factory;
-const IToolFactory& RegisterXmlFactory = s_factory;
+//static ToolFactory<RegisterXml> s_factory;
+//const IToolFactory& RegisterXmlFactory = s_factory;
+DECLARE_TOOL_FACTORY(RegisterXml);
 
 // Standard Constructor
 RegisterXml::RegisterXml(const std::string& type, 
