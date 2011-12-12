@@ -1,5 +1,16 @@
 ------------------------------------------------------------
 User: heather  Mon Dec 12 12:52:07 PST 2011
+GlastRelease-scons/HepRepXml/src
+
+Modified Files:
+	RegisterXml.cxx 
+Removed Files:
+	HepRepXml_dll.cxx HepRepXml_load.cxx 
+Log Message:
+merge Gaudi v21r7
+    *
+------------------------------------------------------------
+User: heather  Mon Dec 12 12:52:07 PST 2011
 GlastRelease-scons/HepRepXml/doc
 
 Modified Files:
