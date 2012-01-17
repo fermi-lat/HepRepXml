@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Tue Jan 17 14:16:00 PST 2012
+HepRepXml
+
+Modified Files:
+	SConscript 
+Log Message:
+use G4Prop
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr17, operation: add
 Package: HepRepXml
