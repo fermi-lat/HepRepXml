@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Tue Jan 17 14:16:00 PST 2012
+HepRepXml/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+use G4Prop
+    *
+------------------------------------------------------------
+User: heather  Tue Jan 17 14:16:00 PST 2012
 HepRepXml
 
 Modified Files:
