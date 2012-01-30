@@ -1,8 +1,9 @@
-//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.15 2009/11/13 01:39:35 jrb Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.16 2010/06/12 17:28:48 jrb Exp $
 /** @file release.notes
  Package HepRepXml
  * EOH *
 
+ HepRepXml-00-08-07-gr01 30-Jan-2012 hmk Gaudi v21r7
  HepRepXml-00-08-07 12-Jun-2010    jrb upgrades for SCons builds
  HepRepXml-00-08-06 12-Nov-2009    jrb Updates for SCons
  HepRepXml-00-08-05 12-Sep-2009  lsrea more fixes
