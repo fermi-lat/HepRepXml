@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: heather  Mon Jan 30 11:20:06 PST 2012
+HepRepXml/src
+
+Modified Files:
+      Tag: GlastRelease-17-35-24-br01
+	RegisterXml.cxx 
+Removed Files:
+      Tag: GlastRelease-17-35-24-br01
+	HepRepXml_dll.cxx HepRepXml_load.cxx 
+Log Message:
+Gaudi v21r7
+    *
+------------------------------------------------------------
 User: heather  Mon Jan 30 11:20:05 PST 2012
 HepRepXml/doc
 
