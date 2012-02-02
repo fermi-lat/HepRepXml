@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 User: heather  Thu Feb  2 09:55:34 PST 2012
+HepRepXml/src
+
+Added Files:
+	HepRepXmlSvc.cxx HepRepXmlSvc.h 
+Log Message:
+Add HepRepXmlSvc
+    *
+------------------------------------------------------------
+User: heather  Thu Feb  2 09:55:34 PST 2012
 HepRepXml/doc
 
 Modified Files:
