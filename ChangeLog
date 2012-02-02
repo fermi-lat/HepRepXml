@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Thu Feb  2 09:55:34 PST 2012
+HepRepXml/cmt
+
+Modified Files:
+	requirements 
+Log Message:
+Add HepRepXmlSvc
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr21, operation: add
 Package: HepRepXml
