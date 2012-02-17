@@ -1,5 +1,15 @@
 ------------------------------------------------------------
 User: heather  Fri Feb 17 13:25:26 PST 2012
+HepRepXml/src
+
+Added Files:
+      Tag: GlastRelease-17-35-24-br01
+	HepRepXmlSvc.cxx HepRepXmlSvc.h 
+Log Message:
+add HepRepXmlSvc
+    *
+------------------------------------------------------------
+User: heather  Fri Feb 17 13:25:26 PST 2012
 HepRepXml/doc
 
 Modified Files:
