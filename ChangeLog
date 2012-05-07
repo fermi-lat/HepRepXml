@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: usher  Mon May  7 14:27:43 PDT 2012
+HepRepXml/src
+
+Modified Files:
+	HepRepXmlSvc.cxx 
+Log Message:
+Setting up initialization of the xml streamer
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-17-35-24-gr30, operation: add
 Package: HepRepXml
