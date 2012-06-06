@@ -1,8 +1,9 @@
-//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.16.64.1 2012/01/30 19:20:05 heather Exp $
+//$Header: /nfs/slac/g/glast/ground/cvs/HepRepXml/doc/release.notes,v 1.16.64.2 2012/02/17 21:25:26 heather Exp $
 /** @file release.notes
  Package HepRepXml
  * EOH *
 
+ HepRepXml-00-08-07-gr03 06-Jun-2012 hmk Merge in Tracy's fix to event display
  HepRepXml-00-08-07-gr02 15-Feb-2012 hmk Try to get Event Display going
  HepRepXml-00-08-07-gr01 30-Jan-2012 hmk Gaudi v21r7
  HepRepXml-00-08-07 12-Jun-2010    jrb upgrades for SCons builds
